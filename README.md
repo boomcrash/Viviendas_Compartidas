@@ -3,4 +3,6 @@ Este sistema fue realizado con java y conectado con una base de datos que se enc
 
 
 VENTANA DE INICIO DE SESION:
+
+
 ![image](https://user-images.githubusercontent.com/64045193/182501212-8bed0874-cb86-4cfd-9e0e-dc58bfb067ea.png)
