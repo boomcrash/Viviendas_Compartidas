@@ -6,3 +6,8 @@ VENTANA DE INICIO DE SESION:
 
 
 ![image](https://user-images.githubusercontent.com/64045193/182501212-8bed0874-cb86-4cfd-9e0e-dc58bfb067ea.png)
+
+
+VENTANA DE REGISTRO:
+
+![image](https://user-images.githubusercontent.com/64045193/182501283-168c4238-8097-43ee-9419-fed90c7b3320.png)
